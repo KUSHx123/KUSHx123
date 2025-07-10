@@ -1,59 +1,62 @@
-<h1 align="center">Hi 👋, I'm Kush Sinha</h1>
-<h3 align="center">Frontend Developer | MERN Stack Engineer | AI & Data Enthusiast</h3>
+<h1 align="center">Hey 👋 I'm Kush Raman Sinha</h1>
+<h3 align="center">Frontend Developer | MERN Stack Engineer | AI + Data Enthusiast</h3>
 
 <p align="center">
-  🚀 I love building real-world web applications with beautiful UI/UX and smart AI integration.<br/>
-  🎯 Currently focused on AI-powered products, data dashboards, and portfolio-worthy full-stack apps.
+  🚀 I build beautiful, functional web apps using React, TypeScript, and TailwindCSS.<br/>
+  🤖 Passionate about AI-enhanced tools, dashboards, and real-world problem-solving.
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🔧 Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🧠 [AI Resume Builder](https://your-live-link.com)
-> A smart resume builder that generates bullet points using OpenAI’s GPT API. Includes an aesthetic hero section, live preview, theme toggle, and PDF export.
-**Tech:** React, TypeScript, Tailwind, OpenAI, shadcn/ui, Framer Motion
+#### 🧠 [AI Resume Builder](#)
+> Generate professional resumes with OpenAI. Includes live preview, theme toggle, and export to PDF.  
+**Tech**: React, TypeScript, Tailwind, shadcn/ui, OpenAI API, Framer Motion
 
-#### 🩺 [Prescripto – Doctor Appointment Booking System](https://prescripto.vercel.app/)
-> A full-stack MERN application where patients can book appointments, and doctors can manage schedules.
-**Tech:** React, Node.js, MongoDB, Express, Tailwind, JWT Auth
+#### 🩺 [Prescripto – Doctor Booking System](https://prescripto.vercel.app/)
+> MERN app for booking and managing doctor appointments with secure login, appointments, and profile dashboard.  
+**Tech**: React, Node.js, MongoDB, Tailwind
 
-#### ❤️ [Heart Disease Prediction App](https://heart-ai-predictor.vercel.app) *(coming soon)*
-> Predict heart disease risk using ML models integrated into a clean frontend UI. Includes dashboard and report generation.
-**Tech:** React, FastAPI, SQLite, Python ML Models
-
-#### 📊 [Data Analytics Dashboard – Healthcare](#)
-> Power BI dashboard showcasing real-time health KPIs, patient stats, and prediction visualizations.
-**Tech:** Power BI, Excel, Python (ETL), DAX
-
----
-
-### 🧠 Certifications & Superbadges
-- 🎓 Apex Specialist – Salesforce
-- 🧠 Process Automation Superbadge
-- 💼 Developer Super Set – Trailhead
-- 🥇 Technovate 2025 – Best Social Impact Project
+#### ❤️ [Heart Disease Prediction App](#)
+> Predict heart disease risk using a machine learning model and an intuitive UI with real-time results.  
+**Tech**: React, FastAPI, SQLite, Python ML, TypeScript
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushsinha&show_icons=true&theme=radical" alt="Kush's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KUSHx123&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushsinha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHx123&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KUSHx123&theme=radical&column=4&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+### 📅 Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/KUSHx123" alt="Kush's GitHub Contribution Graph" />
 </p>
 
 ---
@@ -66,14 +69,7 @@
 
 ---
 
-### 🧩 Currently Working On
-
-- 🚀 Building a credit card recommendation system powered by AI agents & OpenAI Assistants
-- 📚 Enhancing my frontend stack with animations, motion UI, and custom design systems
-- 🎯 Preparing for top tech roles with a strong portfolio & certifications
-
----
-
 ### ✨ Fun Fact
-> I enjoy making apps that blend AI with clean UX and solve real-world problems — one commit at a time 😄
+
+> I love blending clean UI with smart AI to build tools that actually help people.
 
